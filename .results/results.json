@@ -1,0 +1,28 @@
+{
+  "test_case_results": [
+    {
+      "test_case_id": "NJSCPHDLYL_TEST_1",
+      "evaluation_result": "CORRECT",
+      "title": "A file should be created with the name 'exportArray.mjs'",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "NJSCPHDLYL_TEST_2",
+      "evaluation_result": "CORRECT",
+      "title": "A file should be created with the name 'importArray.mjs'",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "NJSCPHDLYL_TEST_3",
+      "evaluation_result": "CORRECT",
+      "title": "An array should be imported in the file 'importArray.mjs' with default import using the ES6 module syntax",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "NJSCPHDLYL_TEST_4",
+      "evaluation_result": "CORRECT",
+      "title": "An Array with a specified values should be exported from the 'exportArray.mjs' file",
+      "errorMessages": []
+    }
+  ]
+}
